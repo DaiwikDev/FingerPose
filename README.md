@@ -1,1 +1,1 @@
-# FingerPose
+# Palmv2
